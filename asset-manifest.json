@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eauction4/static/css/main.1c207834.chunk.css",
+    "main.js": "/eauction4/static/js/main.e0dbcc17.chunk.js",
+    "main.js.map": "/eauction4/static/js/main.e0dbcc17.chunk.js.map",
+    "runtime-main.js": "/eauction4/static/js/runtime-main.0060259c.js",
+    "runtime-main.js.map": "/eauction4/static/js/runtime-main.0060259c.js.map",
+    "static/js/2.8114bd75.chunk.js": "/eauction4/static/js/2.8114bd75.chunk.js",
+    "static/js/2.8114bd75.chunk.js.map": "/eauction4/static/js/2.8114bd75.chunk.js.map",
+    "index.html": "/eauction4/index.html",
+    "precache-manifest.6b7ba2ffd9d6c5cf7dd4b41ed75e16f8.js": "/eauction4/precache-manifest.6b7ba2ffd9d6c5cf7dd4b41ed75e16f8.js",
+    "service-worker.js": "/eauction4/service-worker.js",
+    "static/css/main.1c207834.chunk.css.map": "/eauction4/static/css/main.1c207834.chunk.css.map",
+    "static/js/2.8114bd75.chunk.js.LICENSE.txt": "/eauction4/static/js/2.8114bd75.chunk.js.LICENSE.txt",
+    "static/media/item1.jpg": "/eauction4/static/media/item1.0a089d77.jpg",
+    "static/media/item2.jpg": "/eauction4/static/media/item2.c68c6122.jpg",
+    "static/media/item3.jpg": "/eauction4/static/media/item3.86fef79a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0060259c.js",
+    "static/js/2.8114bd75.chunk.js",
+    "static/css/main.1c207834.chunk.css",
+    "static/js/main.e0dbcc17.chunk.js"
+  ]
+}
